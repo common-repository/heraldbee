@@ -1,0 +1,22 @@
+.heraldbee-container{
+    margin: 2rem 0;
+    .logo{
+        img{
+            width: 300px;
+        }
+    }
+    a{
+        background: #FFD742;
+        color: #5a251a;
+        border-radius: 50px;
+        padding: 15px 30px;
+        font-weight: bold;
+        font-size: 24px;
+        display: table;
+        margin-top: 2rem;
+        text-decoration: none;
+        &:hover{
+            text-decoration: none;
+        }
+    }
+}
